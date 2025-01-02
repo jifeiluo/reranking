@@ -12,7 +12,7 @@ Specifically, we have tested the project with `torch` version 2.3, if you encoun
 
 #### Dataset
 
-Extracted image features (https://drive.google.com/drive/folders/1u3ZN1ItC__IqIk-_hn8apkXCn7MnpoYs?usp=drive_link), put in `revisitop/dataset/roxford5k/features`.
+Extracted [image features](https://drive.google.com/drive/folders/1u3ZN1ItC__IqIk-_hn8apkXCn7MnpoYs?usp=sharing), put in `revisitop/dataset/roxford5k/features`.
 
 #### CUDA code compilation
 
